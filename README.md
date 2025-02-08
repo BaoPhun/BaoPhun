@@ -1,5 +1,5 @@
  👋 Xin chào, mình là Phùng Bảo Khang!
- ![ảnh](https://github.com/user-attachments/assets/4cb07f2c-789f-4be4-8f99-c2addd2d2b74)
+
 
 - **Ngày sinh**: 25/09/2004  
 - 🌱 Mình đam mê học hỏi và phát triển phần mềm.
