@@ -1,37 +1,37 @@
 👋 Xin chào, mình là Phùng Bảo Khang!
-About Me
-Date of Birth: 25/09/2004
+Về mình
+Ngày sinh: 25/09/2004
 
-🌱 I am passionate about learning and software development.
+🌱 Mình là một sinh viên Công nghệ thông tin năm 3 với niềm đam mê sâu sắc trong lĩnh vực phát triển phần mềm. Mình luôn tìm tòi, học hỏi những công nghệ mới và áp dụng chúng vào các dự án thực tế để nâng cao kỹ năng.
 
-🔧 I have hands-on experience with .NET Core, Angular, React, and C# MVC.
+🔧 Mình có kinh nghiệm thực chiến với các công nghệ .NET Core, Angular, React, và C# MVC, tập trung vào việc xây dựng cả Backend mạnh mẽ và Frontend tương tác, mang lại trải nghiệm người dùng tốt nhất.
 
-💻 Featured Projects
-During my journey, I've had the opportunity to contribute to various projects, which significantly enhanced my skills and knowledge:
+💻 Các dự án nổi bật
+Trong quá trình học tập và làm việc, mình đã có cơ hội tham gia vào nhiều dự án đa dạng, giúp mình rèn luyện kỹ năng lập trình, tư duy giải quyết vấn đề và làm việc nhóm hiệu quả:
 
-🛒 E-commerce Website Development: Developed a complete system from user interface to server-side API integration.
+🛒 Xây dựng trang web bán hàng: Đã phát triển một hệ thống thương mại điện tử hoàn chỉnh, từ thiết kế giao diện người dùng thân thiện đến tích hợp API mạnh mẽ phía server, đảm bảo trải nghiệm mua sắm mượt mà và hiệu quả.
 
-📈 Sales Management System: A system designed to optimize sales processes and manage products and customers efficiently.
+📈 Quản lý bán hàng: Tham gia xây dựng hệ thống giúp tối ưu hóa toàn bộ quy trình bán hàng, từ quản lý kho sản phẩm đến theo dõi thông tin khách hàng và đơn hàng, góp phần nâng cao hiệu quả kinh doanh.
 
-🏥 Clinic Management System: A healthcare data management system with a user-friendly interface for both staff and patients.
+🏥 Quản lý phòng khám: Đã đóng góp vào việc phát triển một hệ thống quản lý dữ liệu y tế, tập trung vào việc tạo ra giao diện trực quan và dễ sử dụng, hỗ trợ hiệu quả cho cả nhân viên y tế và bệnh nhân trong việc quản lý thông tin và lịch trình.
 
-My Goals
-🛠 My objective is to continuously improve my skills and actively contribute to open-source projects.
+Mục tiêu của mình
+🛠 Mục tiêu của mình là không ngừng học hỏi, cải thiện chuyên môn để trở thành một lập trình viên toàn diện. Mình mong muốn được đóng góp vào các dự án có ý nghĩa, đặc biệt là các dự án mã nguồn mở, và chia sẻ kiến thức với cộng đồng để cùng nhau phát triển.
 
-Feel free to explore my repositories below, and don't hesitate to connect if you'd like to collaborate!
+Hãy tham khảo các repository của mình bên dưới và đừng ngần ngại liên hệ nếu bạn muốn cộng tác!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Kết nối với mình:</h3>
 <p align="left">
 <a href="https://www.facebook.com/your-facebook-profile" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/>
 </a>
-<!-- Add other social media links as needed, e.g., LinkedIn -->
+<!-- Bạn có thể thêm các liên kết mạng xã hội khác ở đây, ví dụ: LinkedIn -->
 <!-- <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Ngôn ngữ và Công cụ:</h3>
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -46,8 +46,7 @@ Feel free to explore my repositories below, and don't hesitate to connect if you
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg>" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<!-- Removed Illustrator and Photoshop as they are design tools not directly programming languages/tools for development context here unless specifically used for dev assets -->
 </p>
