@@ -70,7 +70,7 @@
 - ☕ Nghiện cà phê đen không đường  
 
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=BaoKhang&color=brightgreen" alt="Profile Views" />
-</p>
+</div>
 
