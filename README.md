@@ -71,5 +71,6 @@
 
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=BaoKhang&color=brightgreen&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=BaoKhang&color=brightgreen" alt="Profile Views" />
 </p>
+
