@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/yourbanner.png" alt="Phùng Bảo Khang Banner" />
-</p>
+
 
 <!-- Typing Effect -->
 <p align="center">
