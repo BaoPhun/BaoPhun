@@ -68,3 +68,6 @@
 - 💡 Luôn tìm cách tối ưu code để chạy nhanh hơn  
 - 🎮 Game thủ Liên Minh Huyền Thoại  
 - ☕ Nghiện cà phê đen không đường  
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=BaoKhang&color=brightgreen&style=for-the-badge)
