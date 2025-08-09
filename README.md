@@ -60,20 +60,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BaoKhang&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoKhang&layout=compact&theme=radical&hide_border=true" alt="langs"/>
-  <img src="https://streak-stats.demolab.com?user=BaoKhang&theme=radical&hide_border=true" alt="streak"/>
-</p>
-
-<!-- Snake contribution graph -->
-<p align="center">
-  <img src="https://github.com/BaoKhang/BaoKhang/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
-## 🤝 Kết nối với mình
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-profile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  <img src="https://streak-stats.demolab.com?user=BaoKhang&theme=radicacom)
 
 ---
 
