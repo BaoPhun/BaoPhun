@@ -50,7 +50,7 @@
 | Tên dự án | Mô tả | Công nghệ |
 |-----------|-------|-----------|
 | 🛒 **E-commerce Website** | Hệ thống thương mại điện tử đầy đủ chức năng: giỏ hàng, thanh toán, quản lý sản phẩm | .NET Core, Angular |
-| 📊 **Quản lý bán hàng** | Quản lý kho, sản phẩm, khách hàng và đơn hàng | .NET MVC, React |
+| 📊 **Quản lý bán hàng** | Quản lý kho, sản phẩm, khách hàng và đơn hàng | .NET MVC, Angular |
 | 🏥 **Quản lý phòng khám** | Quản lý thông tin bệnh nhân, bác sĩ, lịch hẹn | Node.js, React |
 
 ---
